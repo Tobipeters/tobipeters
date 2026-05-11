@@ -46,6 +46,13 @@ Currently expanding my backend and system design knowledge while building produc
   
 </p>
 
+### AI Tools
+<p>
+  <a href="https://claude.ai/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" height="50" /></a>
+    <a href="https://chatgpt.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="50" /></a>
+    <a href="https://github.com/copilot" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="Giithub Copilot" height="50" /></a>
+    <a href="https://gemini.google.com/app" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini" height="50" /></a>
+</p>
 
 <!--
 ### Languages & Tools
@@ -56,12 +63,29 @@ Currently expanding my backend and system design knowledge while building produc
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
 </p> -->
 
-
+<!--
 ## 💻 Currently Learning
 
 - C# .NET 
 - Systems Design and Architecture
+-->
 </div>
+
+## 🌟 Featured Projects
+
+### 🔹 MedSift
+AI-powered healthcare and pharmacy platform focused on improving medication discovery and accessibility.
+
+**Tech Stack:** Next.js, TypeScript, TailwindCSS, React Query, MQTT (Real-time messaging and notification)
+
+🔗 https://medsift.ng
+
+### 🔹 Paycurra Store
+Modern e-commerce and payment-focused platform with responsive UI and optimized user experience.
+
+**Tech Stack:** React, Next.js, TailwindCSS
+
+🔗 https://paycurra.store
 
 
 
