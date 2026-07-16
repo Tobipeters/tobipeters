@@ -73,12 +73,13 @@ Currently expanding my backend and system design knowledge while building produc
 
 ## 🌟 Featured Projects
 
-### 🔹 MedSift
+<!--### 🔹 MedSift
 AI-powered healthcare and pharmacy platform focused on improving medication discovery and accessibility.
 
 **Tech Stack:** Next.js, TypeScript, TailwindCSS, React Query, MQTT (Real-time messaging and notification)
 
 🔗 https://medsift.ng
+--->
 
 ### 🔹 Paycurra Store
 Modern e-commerce and payment-focused platform with responsive UI and optimized user experience.
